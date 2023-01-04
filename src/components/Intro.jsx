@@ -1,5 +1,5 @@
 import React from "react";
-import pozaPortret from "/public/assets/pozaPortret.webp";
+import pozaPortret from "/assets/pozaPortret.webp";
 
 function Intro() {
   return (
